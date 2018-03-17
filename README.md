@@ -65,7 +65,7 @@ Firefighters may use the Helicopter to perform the following actions:
 
 - **Fly - Fly the Helicopter to any landing area (Drive Action):** 2 AP, 1AP if flying with the Wind
   
-  A Firefighter may Fly the Helicopter to *any* landing location on the board; it cannot be called by radio.  The Helicopter has room for 2 Passengers (Firefighters or Victims).
+  A Firefighter may Fly the Helicopter to *any* landing location on the board; it cannot be called by radio.  The Helicopter has room for 2 Passengers (Firefighters or Victims) to Ride along for 0AP.
 
 - **Air Attack - Drop water from the Helicopter (Deck Gun Action)**: 4 AP, 2AP for the Driver/Operator
 
