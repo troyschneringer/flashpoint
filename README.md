@@ -1,34 +1,5 @@
-<style>
-  h1 {
-    font-size: 5rem;
-    font-weight: 600;
-    margin-top:0;
-    text-transform: uppercase;
-  }
-  h2 {
-    background-color: red;
-    border-radius: 20px;
-    color: white;
-    font-weight: 600;
-    margin-top: 2rem;
-    padding-left: 1rem;
-    text-transform: uppercase;
-  }
-  h2.specialist {
-    background-color: teal;
-    margin-top: 4rem;
-  }
-  header {
-    text-align: center;
-  }
-  header i {
-    font-size: 2rem;
-  }
-</style>
-<header>
-  <i>Flash Point: Fire Rescue</i>
-  <h1>Dangerous Terrain</h1>
-</header>
+*Flash Point: Fire Rescue*
+# Dangerous Terrain
 
 ## Materials
   - Game board: `./printables`
@@ -100,7 +71,7 @@ Firefighters may use the Helicopter to perform the following actions:
 
   The Helicopter can target the quadrant adjacent to its current landing area (denoted by the dashed red line) for an Air Attack. An Air Attack follows the same rolling rules as the Deck Gun Action.
 
-<h2 class="specialist">Forest Firefighter - 4AP</h2>
+## Forest Firefighter - 4AP
 
 A new Firefighter that specializes in forest fire containment.  In addition to the standard actions, the Forest Firefighter can perform the following actions.
 
