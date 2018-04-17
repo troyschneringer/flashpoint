@@ -32,7 +32,7 @@ Base Camp can be damaged by Fire during and Explosion. If Base Camp takes 4 dama
 ## Trees
 Trees fill the forest and are indicated on the board with green borders.  Trees function like like walls and therefore cannot be walked through (unless destroyed) and may receive damage tokens as a result of an Explosion.
 
-*Note: Unlike other Flashpoint games, the Structural Engineer cannot remove damage tokens from trees.*
+*Note: The Structural Engineer cannot remove damage tokens from Trees.*
 
 ## Wind
 As the wind blows, it affects the spread of Fire as it can change direction at any time.  During the Advance Fire roll, include the wind die. Before resolving the Advance Fire action, rotate the wind marker to reflect the new direction:
@@ -71,6 +71,30 @@ Firefighters may use the Helicopter to perform the following actions:
 
   The Helicopter can target the quadrant adjacent to its current landing area (denoted by the dashed red line) for an Air Attack. An Air Attack follows the same rolling rules as the Deck Gun Action.
 
+## The River
+In addition to limiting the access of Firefighters to the forest, the River puts POI in additional danger.
+
+- **The River Current**
+  The river current is fast can quickly move Firefighers, Victims and and POI downstream toward the waterfall.
+  - After each Advance Fire phase, move any Firefighters, Victims and POI in the river 1 space downstream toward the waterfall
+    - If a Firefighter goes over the waterfall, they are Knocked Down and must return to Base Camp, ending their turn immediately.  If a POI or Victim goes over the waterfall they are lost.
+  - When rolling to place POI, a river square is a valid placement;  The POI is now caught in the river current!
+
+The River has the following affects:
+ - **Move action**
+   - Firefighters can move into river squares for 2 AP
+   - Firefighters can cross at the bridge at the normal movement cost
+   - Firefighters can not Carry victims through the river, but they can Lead them through for 2 AP
+
+- **Advance Fire**
+  - Do not place a Smoke token on a river space.  Instead follow the arrows to determine where to place the token.
+  - If a square adjacent to the river explodes or is the last burning square in a Shockwave, do not place a Fire token in the river.  If, however, the wind is blowing in that direction, the Fire jumps the river; place a Fire token on the square across the river.
+
+## The Bridge
+  There is a Bridge across the middle of the river bvy which Firefighters can cross at normal move costs.  If at any time a Fire marker should be placed on the Bridge (by Advancing Fire or Explosion) instead place a Damage marker on the Bridge.  Once the bridge has three (3) damage markers it falls and can no longer be used for safe passage.
+  - The Structural Engineer may repair the Bridge at normal cost.
+
+
 ## Forest Firefighter - 4AP
 
 A new Firefighter that specializes in forest fire containment.  In addition to the standard actions, the Forest Firefighter can perform the following actions.
