@@ -91,7 +91,7 @@ The River has the following affects:
   - If a square adjacent to the river explodes or is the last burning square in a Shockwave, do not place a Fire token in the river.  If, however, the wind is blowing in that direction, the Fire jumps the river; place a Fire token on the square across the river.
 
 ## The Bridge
-  There is a Bridge across the middle of the river bvy which Firefighters can cross at normal move costs.  If at any time a Fire marker should be placed on the Bridge (by Advancing Fire or Explosion) instead place a Damage marker on the Bridge.  Once the bridge has three (3) damage markers it falls and can no longer be used for safe passage.
+  There is a Bridge across the middle of the river by which Firefighters can cross at normal move costs.  If at any time a Fire marker should be placed on the Bridge (by Advancing Fire or Explosion) instead place a Damage marker on the Bridge.  Once the bridge has three (3) damage markers it falls and can no longer be used for safe passage.
   - The Structural Engineer may repair the Bridge at normal cost.
 
 
