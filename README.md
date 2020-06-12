@@ -61,8 +61,6 @@ The Helicopter can fight fire from the air and transport both Firefighters and V
 
 Firefighters may use the Helicopter to perform the following actions:
 
-*Note: if the Helicopter is downwind it is grounded and cannot be operated until the Wind changes direction.*
-
 - **Fly - Fly the Helicopter to any landing area (Drive Action):** 2 AP, 1AP if flying with the Wind
   
   A Firefighter may Fly the Helicopter to *any* landing location on the board; it cannot be called by radio.  The Helicopter has room for 2 Passengers (Firefighters or Victims) to Ride along for 0AP.
@@ -70,6 +68,10 @@ Firefighters may use the Helicopter to perform the following actions:
 - **Air Attack - Drop water from the Helicopter (Deck Gun Action)**: 4 AP, 2AP for the Driver/Operator
 
   The Helicopter can target the quadrant adjacent to its current landing area (denoted by the dashed red line) for an Air Attack. An Air Attack follows the same rolling rules as the Deck Gun Action.
+
+*Note: if the Helicopter is downwind it is grounded and cannot be operated until the Wind changes direction.*
+
+*Note: the Helicopter must always be piloted by a Firefighter to perform an action.*
 
 ## The River
 In addition to limiting the access of Firefighters to the forest, the River puts POI in additional danger.
